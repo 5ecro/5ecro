@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1&pause=999999&color=162124&center=true&vCenter=true&width=500&lines=𝐉ERE𝐌𝐘" />
 </p>
-       ㅤ ㅤ          ㅤ     ㅤ ㅤ   ㅤ  ㅤ ㅤ          ㅤ ㅤ    ㅤ ㅤ  <img width="521" height="71" alt="gj8sus" src="https://github.com/user-attachments/assets/15559ca6-bfbf-4354-b12e-9e42b1dde451" />
+       ㅤ ㅤ          ㅤ     ㅤ ㅤ   ㅤ  ㅤ ㅤ          ㅤ ㅤ    <img width="521" height="71" alt="gj8sus" src="https://github.com/user-attachments/assets/15559ca6-bfbf-4354-b12e-9e42b1dde451" />
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=999999&color=789083&center=true&vCenter=true&width=950&lines=𝘏i%20hi%21%2C%20i%27m%20𝖩͟e͟r͟e͟m͟y͟.%20𝐼f%20you%20want%20to%20t𝐚lk%2C%20𝒔end%20me%20𝒶%20friend%20requ͟e͟s͟t%20on%20𝗱𝗶𝘀𝗰ord%21%21%20χρ" />
 </p>
@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&pause=999999&color=0a2125&center=true&vCenter=true&width=950&lines=𝗠𝗬%20favouri𝗍𝖾s%20th𝕚ngs!:" />
 </p>
-             ㅤ ㅤ     ㅤ ㅤ      ㅤ     ㅤ ㅤ ㅤ          ㅤ ㅤ ㅤ    ㅤ ㅤ   ㅤ ㅤ    ㅤ ㅤ     <img width="310" height="31" alt="image" src="https://github.com/user-attachments/assets/87c1c68f-b636-4ede-927e-d92ac9e84fab" />
+             ㅤ ㅤ     ㅤ ㅤ      ㅤ     ㅤ ㅤ ㅤ          ㅤ ㅤ ㅤ    ㅤ ㅤ   ㅤ ㅤ    ㅤ   <img width="310" height="31" alt="image" src="https://github.com/user-attachments/assets/87c1c68f-b636-4ede-927e-d92ac9e84fab" />
 
 
 <div align="center">
