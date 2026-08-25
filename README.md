@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <img src="https://github.com/user-attachments/assets/852f01d9-0a65-47c9-b3c1-67b7d4384810" width="800" alt="Banner de Arriba" />
 </div>
 <!-- DIBUJO FLOTANDO A LA IZQUIERDA -->
