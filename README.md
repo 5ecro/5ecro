@@ -40,7 +40,7 @@
 
   <!-- 4. TEXTO DEGRADADO (DE OSCURO A CLARO, SIN ARROBA) -->
   <p>
-    $\color{#880E4F}{\mathit{i\ }}\color{#9C1B5E}{\mathit{dont\ }}\color{#B0286D}{\mathit{have\ }}\color{#C4357C}{\mathit{ata\ }}\color{#D8428B}{\mathit{or\ }}\color{#EC4F9A}{\mathit{som,\ }}\color{#F472AA}{\mathit{but\ }}\color{#F895BA}{\mathit{here\ }}\color{#FCB8C9}{\mathit{are\ }}\color{#FEDCDB}{\mathit{things\ }}\color{#FFE3A8}{\mathit{about\ me,}}$
+    $\color{#880E4F}{\mathit{i\ }}\color{#9C1B5E}{\mathit{dont\ }}\color{#B0286D}{\mathit{have\ }}\color{#C4357C}{\mathit{ata\ }}\color{#D8428B}{\mathit{or\ }}\color{#EC4F9A}{\mathit{som,,}}$
   </p>
 
 </div>
