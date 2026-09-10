@@ -50,9 +50,7 @@
 
 
 
-<p>
-    $\color{#880E4F}{\small{\text{࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚ ࿙࿚࿙࿚}}}$
-  </p>
+
 
 <div align="center">
   <table border="1" borderColor="#E64A85" cellpadding="10" cellspacing="0">
